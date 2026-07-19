@@ -20,6 +20,7 @@ p {
 img {
   display: block;
   width: 100%;
+  max-width: 1200px;
   height: aout;
-  margin: 40px 0;
+  margin: 60px auto;
 }
