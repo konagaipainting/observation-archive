@@ -16,3 +16,10 @@ h1 {
 p {
   color: #aaaaaa;
 }
+
+img {
+  display: block;
+  width: 100%;
+  height: aout;
+  margin: 40px 0;
+}
